@@ -2,8 +2,9 @@
 ### Sharome Burton
 ### Description:
 
-Python script that processes a .json file with geospatial data of cities in the United States and territories, and outputs a .geojson file which the highest population cities
-in each state of the continental U.S. and a west-east path passing through all of these cities
+Python script that processes a .json file with geospatial data of cities in the United States and territories,
+and outputs a .geojson file which the highest population cities in each state of the continental U.S. and a 
+west-east path passing through all of these cities
 
 <a href="https://gist.github.com/koulkoudakis/a36d00c830c5ba166335fe66d3afbf06"><img src="img/P01.jpg" width="800"></a>
 
