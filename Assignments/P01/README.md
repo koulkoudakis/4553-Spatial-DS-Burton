@@ -21,4 +21,4 @@ west-east path passing through all of these cities
 
 - Run program from `main.py`
 - Ensure that `cities_latlon_w_pop.json` is in working directory
-- Upload `new_geojson.geojson` to geojson.io to view
+- Upload `new_geojson.geojson` to geojson.io to view (or *click on image in this README*)
