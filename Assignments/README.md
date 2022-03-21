@@ -1,4 +1,4 @@
-## Assignments
+<!-- ## Assignments
 
 | Folder | Title | Description | Due | Days Left<sup>*</sup> |
 |:------|:------|:------|:------|:-----:|
@@ -9,4 +9,4 @@
 
 <sup>Last Updated: 2022-01-17 (Mon @ 21:54)</sup> 
 
-<sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
+<sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup>  -->
