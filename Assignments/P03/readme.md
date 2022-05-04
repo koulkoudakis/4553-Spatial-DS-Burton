@@ -1,7 +1,7 @@
 P03 - Voronoi - Real World Use Case
 ### Sharome Burton
 ### Description:
-This program creates a voronoi diagram over the US creating polygons around each of the 49 cities. The rtree is queried getting the UFO sighting points that are contained within each polygon. Results are saved to a json file for future use.
+This program creates a voronoi diagram over the US creating, polygons around each state. The geospatial rtree is queried to get UFO sighting points that are within each polygon. Results are saved to a json file for future use.
 
 ### Instructions:
 
