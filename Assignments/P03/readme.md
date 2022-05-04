@@ -6,3 +6,5 @@ This program creates a voronoi diagram over the US creating polygons around each
 ### Instructions:
 
 * Go to https://colab.research.google.com/drive/1wHvlnQ0QeGIcxRc8MeMJg_-fsAdNpQtZ?usp=sharing to view output of program
+
+![voronoi](voronoi-result.png)
